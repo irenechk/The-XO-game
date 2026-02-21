@@ -222,15 +222,6 @@ divs.forEach(d =>{
 
 ---
 
-# 🎯 Future Improvements
-
-* Restart button
-* Draw detection
-* Scoreboard
-* AI opponent
-* Animations
-
----
 
 # 👩‍💻 Author
 
@@ -241,12 +232,3 @@ Created as a JavaScript practice project for learning:
 * Game Logic
 * Arrays
 
----
-
-If you want, I can also provide:
-
-✅ Full working Tic Tac Toe code
-✅ CSS grid design
-✅ AI opponent version
-
-Just tell me 👍
